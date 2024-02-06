@@ -1,6 +1,6 @@
 # Europe-Restaurants-Tripadvisor
 
-## About Dataset
+# About Dataset
 # Context
 TripAdvisor is the most popular travel website and it stores data for almost all restaurants, showing locations (even latitude and longitude coordinates), restaurant descriptions, user ratings and reviews, and many more aspects.
 
