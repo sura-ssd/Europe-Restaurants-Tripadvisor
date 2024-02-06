@@ -13,9 +13,9 @@ All the restaurants from the main European countries have been scraped in early 
 The dataset combines the restaurants from the main European countries.
 ## ETL Process
 This project Practiced Python's Pandas library to extract, transform, and load the data into a PostgreSQL database.
-  # Visualization
+  ### Visualization
   Power BI is used to visualize the meaningful insights by connecting to PostgreSQL database.
- # Visualization list 
+ ### Visualization list 
  -Count of poor, Count of terrible, Count of very_good, Count of total_reviews_count and Count of
 excellent
 -Count of avg_rating by country
@@ -25,7 +25,7 @@ excellent
 -Count of total_reviews_count by country
 -What influences avg_rating to increase/decrease
 
-## Members name
+# Members name
 | No. | Name               | ID              |
 | --- | ------------------ | --------------- |
 |  1  | Surafel Seyoum     | DBUR/1204/12    |
