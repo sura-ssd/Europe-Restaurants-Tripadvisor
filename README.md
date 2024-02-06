@@ -1,5 +1,5 @@
-## Data Pipeline and ETL Process with Power BI and PostgreSQL 
-# About the dataset we used
+# Data Pipeline and ETL Process with Power BI and PostgreSQL 
+## About the dataset we used
 TripAdvisor is the most popular travel website and it stores data for almost all restaurants, showing locations (even latitude and longitude coordinates), restaurant descriptions, user ratings and reviews, and many more aspects.
 
 The website is well known for displaying user ratings and reviews for restaurants, hotels, b&b, touristic attractions, and other places, with a total word count of all reviews is more than 10 billion.
@@ -11,7 +11,7 @@ Data has been retrieved from the publicly available website https://tripadvisor.
 All the restaurants from the main European countries have been scraped in early May 2021.
 
 The dataset combines the restaurants from the main European countries.
-# ETL Process
+## ETL Process
 This project Practiced Python's Pandas library to extract, transform, and load the data into a PostgreSQL database.
   # Visualization
   Power BI is used to visualize the meaningful insights by connecting to PostgreSQL database.
