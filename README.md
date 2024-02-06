@@ -18,11 +18,17 @@ This project Practiced Python's Pandas library to extract, transform, and load t
  ### Visualization list 
  -Count of poor, Count of terrible, Count of very_good, Count of total_reviews_count and Count of
 excellent
+
 -Count of avg_rating by country
+
 -Count of features by restaurant_name
+
 -Count of cuisines by country
+
 -Count of total_reviews_count and Count of avg_rating by avg_rating
+
 -Count of total_reviews_count by country
+
 -What influences avg_rating to increase/decrease
 
 ## Members name
