@@ -16,6 +16,7 @@ This project Practiced Python's Pandas library to extract, transform, and load t
   ### Visualization
   Power BI is used to visualize the meaningful insights by connecting to PostgreSQL database.
  ### Visualization list 
+ ```
  - Count of poor, Count of terrible, Count of very_good, Count of total_reviews_count and Count of
 excellent
 
@@ -30,6 +31,7 @@ excellent
 - Count of total_reviews_count by country
 
 - What influences avg_rating to increase/decrease
+```
 
 ### Visualization Description
 
@@ -52,6 +54,7 @@ Total review counts by country bars help prioritize data gathering and market re
 Together these analyses inform data-driven decisions on product enhancements, market expansion, investment focus and brand strategy across borders and client segments. They optimize business decisions based on customer feedback trends.
 
 ## Members name
+```
 | No. | Name               | ID              |
 | --- | ------------------ | --------------- |
 |  1  | Surafel Seyoum     | DBUR/1204/12    |
@@ -59,3 +62,4 @@ Together these analyses inform data-driven decisions on product enhancements, ma
 |  3  | Temesgen Debebe    | DBUR/0888/12    |
 |  4  | Yonas Million      | DBUR/3710/12    |
 |  5  | Oliyad Lemma       | DBUR/0809/12    |
+```
