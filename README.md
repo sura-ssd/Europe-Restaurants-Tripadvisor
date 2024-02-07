@@ -1,4 +1,5 @@
 # Data Pipeline and ETL Process with Power BI and PostgreSQL 
+
 ## About the dataset we used
 TripAdvisor is the most popular travel website and it stores data for almost all restaurants, showing locations (even latitude and longitude coordinates), restaurant descriptions, user ratings and reviews, and many more aspects.
 
@@ -47,9 +48,7 @@ The cuisine popularity by country column chart aids decisions around what food t
 A correlation between volume and quality displayed in the scatter plot suggests investing to improve ratings may boost viability through more reviews.
 
 Tracking progress versus targets in the bullet chart helps gauge return on actions and adjust strategy based on rating performance milestones.
-
 Total review counts by country bars help prioritize data gathering and market research in top reviewed regions for better understanding consumer needs locally.
-
 Together these analyses inform data-driven decisions on product enhancements, market expansion, investment focus and brand strategy across borders and client segments. They optimize business decisions based on customer feedback trends.
 
 ## Members name
